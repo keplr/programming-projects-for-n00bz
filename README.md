@@ -107,7 +107,7 @@ Happy Rolling!
 <li>Flappy Birds Clone
 <li>Fast Fourier Transform
 <li>Graphical Digital Clock (GUI) that allows the user to set alarms and change colors
-<li>Binary Search
+<li>Binary Search / Binary Search Tree
 <li>Nintendo Oil Panic
 <li>Generate the Sierpinski Triangle
 <li>Calculate the Dot and Cross of two Vectors
