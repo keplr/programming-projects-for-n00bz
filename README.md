@@ -3,7 +3,7 @@ programming-projects-for-n00bz
 
 /g/'s Programming Projects for n00bz. Courtesy of anon from 4chan.
 
-These are more in groups of difficulty than a line by line difficulty order.
+These are in random difficulty order.
 
 How to Play
 -----------------------------
@@ -15,16 +15,20 @@ Happy Rolling!
 
 <ol>
 <li>Name Generator
+<li>Higher or Lower / Heads or tails
 <li>Temperature Converter
 <li>Calculate your Age in Seconds
 <li>Simple Encryption / Decryption
 <li>FizzBuzz
-<li>Rock Paper Scissors
+<li>Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock
 <li>Hangman
 <li>Love Calculator
 <li>Pseudorandom Quote Generator
 <li>Password Generator
+<li>Atomically Correct Time from an internet clock
+<li>Haiku Generator
 <li>Magic Eight Ball
+<li>Collatz Conjecture
 <li>Reverse a string
 <li>Count the Vowels in a string
 <li>Count the words in a string
@@ -32,28 +36,27 @@ Happy Rolling!
 <li>Connect Four
 <li>BMI Calculator
 <li>4chan Thread Downloader (Images)
-<li>"Install Gentoo" thread replier.
-<li>Rock Paper Scissors Lizard Spock
-<li>Sodoku Generator
-<li>Sodoku Solver
+<li>Sodoku Generator / Solver
 <li>Maze Game and Solution Algorithm
 <li>Decimal to Binary
 <li>Picross Solver
-<li>Calculate the amount of seconds since 1st January 00:00, in the year 0000 AD
+<li>Eulerian Path
 <li>Fibonnaci Sequence Algorithm
 <li>Calculate and Print the Factorial of 100
-<li>Encryption Collection. Implement all of the tools in the Rumkin Collection http://rumkin.com/tools/cipher/
+<li>Encryption Collection. Implement all of the tools in the Rumkin Collection: http://rumkin.com/tools/cipher/
 <li>Blackjack
 <li>Text Adventure Game
 <li>Generate an ASCII image of a Christmas tree to a user given height.
 <li>Area Calculator
-<li>Calorie Counter
+<li>Benfords Law
 <li>Hunt the Wumpus
 <li>Static Website Generator
 <li>Crossword Game
+<li>NTP Server
 <li>Stronger Password Generator (With less chance of predicting an outcome)
 <li>Find the largest number in an array, and print its position
 <li>ASCII Analogue Clock
+<li>Dijkstra's Algorithm
 <li>Text to Morse translator. Bonus points for generating the sound.
 <li>Noughts and Crosses / Tic Tac Toe / X and O
 <li>Snake Game
@@ -61,19 +64,22 @@ Happy Rolling!
 <li>Telnet Server
 <li>IMP Interpreter
 <li>Tetris
-<li>Prime Number generator
 <li>Conway's Game of Life
 <li>Web Crawler
+<li>Text Editor
+<li>RSS Feed Creator
+<li>Evaluate Binomial Coefficients
 <li>Reverse Polish Notation (RPN) Calculator
 <li>Output the Mandlebrot Set in ASCII
 <li>Sorting Algorithm
+<li>Convert Markup to HTML
 <li>The N Queens Problem
-<li>Battleships
+<li>Details Validatior using Regular Expressions. Validate Phone numbers, emails, names etc.
 <li>Linked List
 <li>Mastermind
 <li>Random Image Generator
+<li>last.FM Scrobbler
 <li>Klingon Translator
-<li>TCP chat program
 <li>Prime Number generator using a Sieve
 <li>Markov Chain
 <li>Graphical Digital Clock (GUI)
@@ -83,11 +89,11 @@ Happy Rolling!
 <li>Name Art in ASCII
 <li>Towers of Hanoi
 <li>Quine
-<li>Chatbot
 <li>IRC Bot
 <li>Brainfuck Interpreter
 <li>Sorting Algorithm Audibilization and/or Visualisation
 <li>Chip-8 Emulator
+<li>Geekcode Generator (3.12)
 <li>Define, translate and rotate a shape with an arbitrary amount of vertices
 <li>Pong with Variable Vectors
 <li>Battleships with an Artificial Intelligence (NPC) opponent. Make sure they're beatable.
@@ -107,9 +113,7 @@ Happy Rolling!
 <li>Calculate the Dot and Cross of two Vectors
 <li>Little Man Computer Simulator
 <li>Basic LISP Interpreter
-<li>Argv Parser
-<li>Generic LL Parser
-<li>Hash Map
+<li>Hailstone Sequence
 </ol>
 
 Challenge Tier
@@ -123,7 +127,9 @@ Challenge Tier
 
 Also check out:
 
-https://projecteuler.net/
-https://github.com/WoutervdBrink/Programming-Challenges
-
+https://projecteuler.net/<br>
+https://github.com/WoutervdBrink/Programming-Challenges<br>
+https://github.com/karan/Projects<br>
+http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/<br>
+http://rosettacode.org/wiki/Category:Programming_Tasks<br>
 For more ideas.
