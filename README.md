@@ -89,6 +89,7 @@ Medium Tier
 <li>Towers of Hanoi
 <li>Quine
 <li>Chatbot
+<li>IRC Bot
 </ol>
 
 Hard Tier
@@ -109,6 +110,10 @@ Hard Tier
 <li>Binary Search
 <li>Nintendo Oil Panic
 <li>Little Man Computer Simulator
+<li>Basic LISP Interpreter
+<li>Argv Parser
+<li>Generic LL Parser
+<li>Hash Map
 </ol>
 
 Challenge Tier
@@ -118,7 +123,6 @@ Challenge Tier
 -It should be given a starting pattern, and alter the starting pattern when a generation dies or stops significant movement (repeats itself indefinately.)
 <li>Scan the entire IPv4 range, from 0.0.0.0 to 255.255.255.255 and log IP's that host webservers in a database.<br>
 -I take no responsibility if anybody comes knocking on your door.
-<li>Basic LISP Interpreter
 </ul>
 
 
