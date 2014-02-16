@@ -5,9 +5,24 @@ programming-projects-for-n00bz
 
 Difficulty level is subjective, but do remember these ideas are for complete noobs.
 
+How to Play
+-----------------------------
+Last three digits of your post decides. Third from the end decides difficulty tier:
+<ul>
+<li>1: Easy Tier
+<li>2, 3, 4: Slightly-Harder Tier
+<li>5, 6, 7: Medium Tier
+<li>8, 9, 0: Hard: Tier
+</ul>
+Last two digits decide the project. For example if my post number is XXXXX408, I would do an Area Calculator.
+
+Happy Rolling!
+
+<hr>
+
 Easy Tier
 ------------------------------
-<ul>
+<ol>
 <li>Name Generator
 <li>Temperature Converter
 <li>Calculate your Age in Seconds
@@ -23,12 +38,12 @@ Easy Tier
 <li>Count the Vowels in a string
 <li>Count the words in a string
 <li>BMI Calculator
-</ul>
+</ol>
 
 
-Slightly-Harder-than-Easy Tier
+Slightly-Harder Tier
 ------------------------------
-<ul>
+<ol>
 <li>"Install Gentoo" thread replier.
 <li>Rock Paper Scissors Lizard Spock
 <li>Sodoku Solver
@@ -47,11 +62,11 @@ Slightly-Harder-than-Easy Tier
 <li>Snake Game
 <li>Tetris
 <li>Prime Number generator
-</ul>
+</ol>
 
 Medium Tier
 ------------------------------
-<ul>
+<ol>
 <li>Conway's Game of Life
 <li>Reverse Polish Notation (RPN) Calculator
 <li>Output the Mandlebrot Set in ASCII
@@ -69,11 +84,14 @@ Medium Tier
 <li>Algorithm to calculate Triangle Numbers
 <li>Calculate a users typing speed
 <li>Name Art in ASCII
-</ul>
+<li>Towers of Hanoi
+<li>Quine
+<li>Chatbot
+</ol>
 
-Harder Tier
+Hard Tier
 ------------------------------
-<ul>
+<ol>
 <li>Sorting Algorithm Audibilization and/or Visualisation
 <li>Chip-8 Emulator
 <li>Battleships with an Artificial Intelligence (NPC) opponent. Make sure they're beatable.
@@ -84,10 +102,12 @@ Harder Tier
 <li>Calculate Pascals Triangle
 <li>Pacman Clone with Ghost AI
 <li>Flappy Birds Clone
+<li>Fast Fourier Transform
 <li>Graphical Digital Clock (GUI) that allows the user to set alarms and change colors
 <li>Binary Search
 <li>Nintendo Oil Panic
-</ul>
+<li>Little Man Computer Simulator
+</ol>
 
 Challenge Tier
 ------------------------------
@@ -96,6 +116,7 @@ Challenge Tier
 -It should be given a starting pattern, and alter the starting pattern when a generation dies or stops significant movement (repeats itself indefinately.)
 <li>Scan the entire IPv4 range, from 0.0.0.0 to 255.255.255.255 and log IP's that host webservers in a database.<br>
 -I take no responsibility if anybody comes knocking on your door.
+<li>Basic LISP Interpreter
 </ul>
 
 
