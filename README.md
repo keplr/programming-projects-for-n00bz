@@ -132,4 +132,7 @@ https://github.com/WoutervdBrink/Programming-Challenges<br>
 https://github.com/karan/Projects<br>
 http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/<br>
 http://rosettacode.org/wiki/Category:Programming_Tasks<br>
+http://www.cs.manchester.ac.uk/study/postgraduate-research/projects/<br>
+https://www.google.com/?q=Programming+Projects<br>
+
 For more ideas.
