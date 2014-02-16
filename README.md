@@ -16,6 +16,8 @@ Last three digits of your post decides. Third from the end decides difficulty ti
 </ul>
 Last two digits decide the project. For example if my post number is XXXXX408, I would do an Area Calculator.
 
+If your last two digits are higher than there are in that tier, take the last number of your post. For example if my post number was XXXXX469, I would do Hunt the Wumpus.
+
 Happy Rolling!
 
 <hr>
