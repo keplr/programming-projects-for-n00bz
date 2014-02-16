@@ -38,6 +38,7 @@ Happy Rolling!
 <li>Generate an ASCII image of a Christmas tree to a user given height.
 <li>Area Calculator
 <li>Hunt the Wumpus
+<li>Static Website Generator
 <li>Crossword Game
 <li>Stronger Password Generator (With less chance of predicting an outcome)
 <li>Find the largest number in an array, and print its position
@@ -68,6 +69,7 @@ Happy Rolling!
 <li>Quine
 <li>Chatbot
 <li>IRC Bot
+<li>Brainfuck Interpreter
 <li>Sorting Algorithm Audibilization and/or Visualisation
 <li>Chip-8 Emulator
 <li>Define, translate and rotate a shape with an arbitrary amount of vertices
@@ -78,6 +80,7 @@ Happy Rolling!
 <li>Incremental Economy Simulator (Look up Time of Exploration)
 <li>Encryption / Decryption Hiding text in an image
 <li>Calculate Pascals Triangle
+<li>Sine Wave Generator from Pseudorandom Numbers
 <li>Pacman Clone with Ghost AI
 <li>Flappy Birds Clone
 <li>Fast Fourier Transform
