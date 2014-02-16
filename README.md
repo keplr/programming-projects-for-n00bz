@@ -31,12 +31,15 @@ Happy Rolling!
 <li>Minesweeper
 <li>Connect Four
 <li>BMI Calculator
+<li>4chan Thread Downloader (Images)
 <li>"Install Gentoo" thread replier.
 <li>Rock Paper Scissors Lizard Spock
 <li>Sodoku Generator
 <li>Sodoku Solver
 <li>Maze Game and Solution Algorithm
-<li>Decimal TO Binary
+<li>Decimal to Binary
+<li>Picross Solver
+<li>Calculate the amount of seconds since 1st January 00:00, in the year 0000 AD
 <li>Fibonnaci Sequence Algorithm
 <li>Calculate and Print the Factorial of 100
 <li>Encryption Collection. Implement all of the tools in the Rumkin Collection http://rumkin.com/tools/cipher/
@@ -44,6 +47,7 @@ Happy Rolling!
 <li>Text Adventure Game
 <li>Generate an ASCII image of a Christmas tree to a user given height.
 <li>Area Calculator
+<li>Calorie Counter
 <li>Hunt the Wumpus
 <li>Static Website Generator
 <li>Crossword Game
@@ -55,6 +59,7 @@ Happy Rolling!
 <li>Snake Game
 <li>FTP Client (TCP or UDP with ACK)
 <li>Telnet Server
+<li>IMP Interpreter
 <li>Tetris
 <li>Prime Number generator
 <li>Conway's Game of Life
@@ -64,6 +69,7 @@ Happy Rolling!
 <li>Sorting Algorithm
 <li>The N Queens Problem
 <li>Battleships
+<li>Linked List
 <li>Mastermind
 <li>Random Image Generator
 <li>Klingon Translator
@@ -115,6 +121,9 @@ Challenge Tier
 -I take no responsibility if anybody comes knocking on your door.
 </ul>
 
+Also check out:
 
+https://projecteuler.net/
+https://github.com/WoutervdBrink/Programming-Challenges
 
-
+For more ideas.
