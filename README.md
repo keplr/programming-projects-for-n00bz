@@ -28,11 +28,18 @@ Happy Rolling!
 <li>Reverse a string
 <li>Count the Vowels in a string
 <li>Count the words in a string
+<li>Minesweeper
+<li>Connect Four
 <li>BMI Calculator
 <li>"Install Gentoo" thread replier.
 <li>Rock Paper Scissors Lizard Spock
+<li>Sodoku Generator
 <li>Sodoku Solver
+<li>Maze Game and Solution Algorithm
 <li>Decimal TO Binary
+<li>Fibonnaci Sequence Algorithm
+<li>Calculate and Print the Factorial of 100
+<li>Encryption Collection. Implement all of the tools in the Rumkin Collection http://rumkin.com/tools/cipher/
 <li>Blackjack
 <li>Text Adventure Game
 <li>Generate an ASCII image of a Christmas tree to a user given height.
@@ -46,9 +53,12 @@ Happy Rolling!
 <li>Text to Morse translator. Bonus points for generating the sound.
 <li>Noughts and Crosses / Tic Tac Toe / X and O
 <li>Snake Game
+<li>FTP Client (TCP or UDP with ACK)
+<li>Telnet Server
 <li>Tetris
 <li>Prime Number generator
 <li>Conway's Game of Life
+<li>Web Crawler
 <li>Reverse Polish Notation (RPN) Calculator
 <li>Output the Mandlebrot Set in ASCII
 <li>Sorting Algorithm
@@ -94,7 +104,6 @@ Happy Rolling!
 <li>Argv Parser
 <li>Generic LL Parser
 <li>Hash Map
-<li>Binary Tree Summation using the GPU (Cuda, OpenGL etc.)
 </ol>
 
 Challenge Tier
